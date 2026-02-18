@@ -1,0 +1,4 @@
+<!-- Responsive top-right logo -->
+<div class="top-right-logo">
+    <img src="logo.png" alt="My Logo">
+</div>
